@@ -8,5 +8,8 @@ $ cd pr-practice
 $ git branch
 $ git checkout develop
 $ git branch
+
+Readme readme readme
+
 $ git checkout branch -b <branch name, no spaces>
 $ git branch
