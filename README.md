@@ -12,8 +12,13 @@ Leones
 $ git checkout develop
 Veni
 $ git branch
+
 Vidi
 $ git checkout branch -b <branch name, no spaces>
 Vici
 $ git branch
 Finite
+
+
+Hi, this is my pull request (Jaewoo)
+
